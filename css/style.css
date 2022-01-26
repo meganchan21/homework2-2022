@@ -1,3 +1,4 @@
+/* Number 3 */
 body {
     font-family: Verdana, 'Times New Roman';
     background: #000000;
@@ -5,13 +6,35 @@ body {
     margin: 25px, 25px, 0px, 25px
 }
 
+/* Number 4 */
 h1 {
     font-size: 48px;
     padding: 15px;
     text-align: center;
   }
 
+/* Number 5 */
 h2 {
     font-size: 38px;
     color: #808080;
+    text-shadow: 2px 4px;
   }
+/* Number 6 */
+p {
+    font-size: 24px;
+    padding: 0px, 15px, 15px, 0px;
+  }
+/* Number 7 */
+img { 
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px dashed #FFFFFF;
+}
+/* Number 8 */
+div {
+    min-height: 100px;
+    padding: 20px;
+    border: 3px solid #FFFFFF;
+}
